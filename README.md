@@ -1,5 +1,6 @@
 ### Hey, I'm Temirlan 👋
-I'm 18 and Student CS degree in IT College Almaty. I'm passionate about crafting digital experiences 
+I'm 18. I'm passionate about crafting digital experiences.
+I want to learn and create project. I do my best 😃
 
 ## 🎒 Skills & Experiences 
 * 💻 HTML | CSS | JS
