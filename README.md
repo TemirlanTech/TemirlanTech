@@ -13,5 +13,5 @@ I want to learn and create project. I do my best 😃
 * I love to code
 
 ## 📮 Contacts
-For a response, DM me on [Instagram](https://www.instagram.com/its_temirlan21/) or [Linkedin](https://www.linkedin.com/in/temirlan-assan-035848248/).
+For a response, DM me on [Instagram](https://www.instagram.com/its_temirlan21/) or [Linkedin](https://www.linkedin.com/in/temirlan-assan-tech/).
 
