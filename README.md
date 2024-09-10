@@ -1,5 +1,5 @@
 ### Hey, I'm Temirlan 👋
-I'm 18. I'm passionate about crafting digital experiences.
+I'm 19. I'm passionate about crafting digital experiences.
 I want to learn and create project. I do my best 😃
 
 ## 🎒 Skills & Experiences 
