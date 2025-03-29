@@ -1,5 +1,4 @@
-### Hey, I'm Temirlan 👋
-I'm turning into 20 soon. 
+### Hey, I'm Temirlan 👋 
 I'm beginning to have any of digital experienced. 😏
 I want to learn and create project. 😃
 
@@ -12,7 +11,7 @@ I want to learn and create project. 😃
   
 
 ## ✨ Fun Facts
-* Naruto is my favorite anime. 🥇
+* Naruto is my favorite anime. 🥇  
 * As a kid, I wanted to be a footballer. ⚽
 * I love Ramen 🍜
 * They sometimes call me a foreigner, bc of my face and eyes confusing as Eurasian. 🌏
