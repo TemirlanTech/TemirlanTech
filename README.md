@@ -7,7 +7,6 @@ I want to learn and create project. 😃
 * ⚛️ React
 * 🐍 Python
 * 🌴 Node.js
-* 🖥️ Next.js
   
 
 ## ✨ Fun Facts
