@@ -4,9 +4,8 @@ I want to learn and create project. 😃
 
 ## 🎒 Skills & Experiences 
 * 💻 HTML | CSS | JS
-* ⚛️ React
-* 🐍 Python
-* 🌴 Node.js
+* ⚛️ ReactJS | NodeJS
+* 🐍 Python | Django
   
 
 ## ✨ Fun Facts
